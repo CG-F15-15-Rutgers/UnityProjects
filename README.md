@@ -1,7 +1,7 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: *Laura Tran, Tae-Min Kim*
-Check out our website: [Group Name Website](http://lauratran.site90.net/)
+Check out our website: [Group Name Website](http://whatwedoforschool.weebly.com/)
 
 ![alt text](teamLogo.png)
 
